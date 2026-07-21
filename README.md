@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+I strongly believe that AI democratization shouldn't just be a concept on paper—it needs to be experienced. To bring my book on AI democratization to life, I built this interactive web application using Google AI Studio and the Gemini API.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/571d6a68-ed63-4000-b220-21ec5f56f01b
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Instead of a static, one-way reading experience, this acts as a dynamic companion that helps people explore why AI truly belongs to everyone. Built using TypeScript, Vite, and React, it bridges long-form writing with real-time, AI-driven exploration.<img width="2208" height="1344" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/35432f42-c9d3-4355-8133-0ceacb1c468d" />
+<img width="2000" height="1618" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/17673bc2-dcde-4d3a-896f-31e42f29405a" />
